@@ -1,5 +1,4 @@
 
-
 # Movie Recommendation System
 
 ## Overview
@@ -32,11 +31,11 @@ To run the Movie Recommendation System locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/MallikaSingh1773/movie.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [your-project-directory]
+   cd movie
    ```
 3. Install the required libraries:
    ```bash
@@ -65,9 +64,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-
 - [TMDb](https://www.themoviedb.org/) for providing the movie datasets.
 
----
-
-Feel free to modify any sections as needed, especially the installation instructions and project URL. Let me know if you need any additional sections or details!
