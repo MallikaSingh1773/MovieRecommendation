@@ -1,5 +1,5 @@
 
-# Movie Recommendation System
+# Movie Recommendation Model
 
 ## Overview
 
